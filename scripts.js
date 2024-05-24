@@ -28,4 +28,4 @@ document.getElementById('loadPythonProjects').addEventListener('click', function
       });
     })
     .catch(error => console.error('Error fetching the repos:', error));
-});
+}); 
